@@ -21,7 +21,7 @@ Output:
 6. Make predictions on the testing data using the predict method.
 7. Evaluate the classifier's accuracy using the accuracy_score function from scikit-learn.
 
-<br><br><br><br><br><br>
+<br><br><br>
 ## PROGRAM
 ```python3
 import numpy as np
